@@ -16,3 +16,26 @@ For Example:
 String  = BANANA
 Kevin's vowel beginning word = ANA
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points. 
+
+## Your task is to determine the winner of the game and their score.
+
+# Input Format
+
+A single line of input containing the string . 
+# Note: ## The string  will contain only uppercase letters:[A-Z]
+
+# Constraints
+0<len<pow(10,6)
+
+
+# Output Format
+
+Print one line: the name of the winner and their score separated by a space.
+
+If the game is a draw, print Draw.
+
+# Sample Input
+BANANA
+
+# Sample Output
+Stuart 12
